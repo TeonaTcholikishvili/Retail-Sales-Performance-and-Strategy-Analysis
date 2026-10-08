@@ -1,4 +1,4 @@
-# Adidas Sales Strategy & Market Performance Analysis
+# Retail Sales Performance and Strategy Analysis
 
 ## Overview
 This project analyzes Adidas USA sales performance between 2020 and 2021 using Python, SQL, and data visualization techniques.
